@@ -1,1 +1,11 @@
-echo "Halo catatan git pertama saya"
+Belajar GIT (Version Control System) // Curicullum Odin Projek
+
+1. Git: Distributed Version Control System (DVCS)
+
+    > Version Control: adalah sistem yang merekam perubahan pada sebuah file atau kumpulan file dari waktu ke waktu 
+      sehingga kamu dapat memanggil kembali versi spesifik di kemudian hari.
+
+    > Distributed: tidak hanya satu server pusat, setiap user memiliki salinan lengkap (mirror)
+      dari seluruh riwayat kodingan di laptop masing masing.
+
+2.
